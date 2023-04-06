@@ -1,1 +1,1 @@
-first use this tool
+this is my first time to use Git tool!
